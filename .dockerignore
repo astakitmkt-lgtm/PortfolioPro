@@ -1,0 +1,16 @@
+node_modules
+npm-debug.log
+dist
+build
+.git
+.gitignore
+.DS_Store
+*.md
+!README.md
+client/dist
+server/dist
+data
+*.db
+*.db-shm
+*.db-wal
+
